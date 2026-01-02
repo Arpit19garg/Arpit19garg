@@ -24,29 +24,32 @@ I enjoy building things at the intersection of **engineering, analytics, and pro
 
 ### 🛠 Languages & Tools
 
+### 🛠 Languages & Tools
+
 <p>
   <!-- Programming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="32"/>
 
-  <!-- Data / Analytics -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32"/>
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
 
-  <!-- Tools -->
+  <!-- Version Control / Dev -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32"/>
 
-  <!-- Engineering / Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg" width="32"/>
+  <!-- Engineering / Scientific -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SolidWorks_Logo.svg" width="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Autodesk_AutoCAD_Logo.svg" width="36"/>
 
-  <!-- Analytics / Product -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleanalytics/googleanalytics-original.svg" width="32"/>
+  <!-- Analytics -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Analytics_Logo_2015.svg" width="36"/>
 </p>
+
 
 
 </td>
